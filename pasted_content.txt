@@ -1,0 +1,32 @@
+Build an internal tool that helps generate viral content ideas from short videos on social media platforms like Instagram, TikTok, YouTube Shorts, and Facebook Reels, focusing on self-improvement, inspirational stories, and books for organic marketing of a book summary app. The tool should list 10 viral videos daily with links, view counts, and how they perform compared to the average video in that profile (e.g., 5.1X the views). It should be on a simple, functional website for internal use that updates daily, allows scrolling back to previous days, and embeds videos where possible.
+
+Data Collection
+Starting Profiles:
+SEI Come SEI (https://www.instagram.com/sei.come.sei/)
+Founders Podcast (https://www.instagram.com/founderspodcast/)
+Matt Gray (https://www.instagram.com/matthgray/)
+Alex Hormozi (https://www.instagram.com/hormozi/)
+Online Marketing ES (https://www.instagram.com/onlinemarketinges.co/)
+Expand to other profiles in the self-improvement, inspirational stories, and books niche.
+Methods:
+Instagram: Use scraping tools (e.g., Instaloader, Apify's Instagram Scrapers).
+YouTube Shorts: Use the YouTube Data API.
+TikTok: Use available APIs or scraping tools.
+Facebook Reels: Use suitable scraping methods or APIs.
+Viral Video Identification
+Collect videos posted in the last 7 days from each profile.
+Calculate the average view count for each profile based on the last 20 videos.
+Identify videos with view counts at least 2X the average.
+Daily Selection and Storage
+Select the top 10 viral videos daily based on view count, ensuring they align with the niches of self-improvement, inspirational stories, and books.
+Store the selected videos in a database (e.g., SQLite, PostgreSQL) with timestamps.
+Website Interface
+Display the daily top 10 viral videos with:
+Embedded videos (where platform embedding is supported) or direct links.
+View counts.
+Performance ratios (e.g., 5.1X the average views for that profile).
+Allow users to scroll back to view videos from previous days.
+Keep the design simple and functional for internal use.
+Automation and Technical Considerations
+Automate the tool to run daily at a scheduled time.
+Handle API rate limits, authentication, and potential scraping blocks by implementing delays and respecting platform policies.

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "youtube_sample_1",
+    "platform": "youtube",
+    "title": "5 Morning Habits That Will Change Your Life",
+    "url": "https://www.youtube.com/shorts/sample1",
+    "thumbnail": "https://picsum.photos/seed/youtube_1/500/500",
+    "views": 250000,
+    "performance_ratio": 4.2,
+    "post_date": "2025-04-17T10:30:00.000Z",
+    "creator": "SelfImprovementDaily",
+    "videoId": "dQw4w9WgXcQ"
+  },
+  {
+    "id": "tiktok_sample_1",
+    "platform": "tiktok",
+    "title": "How I Read 52 Books in a Year",
+    "url": "https://www.tiktok.com/@booklover/video/1234567890123456789",
+    "thumbnail": "https://picsum.photos/seed/tiktok_1/500/500",
+    "views": 320000,
+    "performance_ratio": 5.7,
+    "post_date": "2025-04-17T14:20:00.000Z",
+    "creator": "BookLover"
+  },
+  {
+    "id": "instagram_sample_1",
+    "platform": "instagram",
+    "title": "3 Ways to Stay Motivated Every Day",
+    "url": "https://www.instagram.com/p/AbCdEfGhIjK/",
+    "thumbnail": "https://picsum.photos/seed/instagram_1/500/500",
+    "views": 180000,
+    "performance_ratio": 3.1,
+    "post_date": "2025-04-17T09:15:00.000Z",
+    "creator": "MotivationMafia"
+  },
+  {
+    "id": "facebook_sample_1",
+    "platform": "facebook",
+    "title": "The Power of Daily Journaling",
+    "url": "https://www.facebook.com/reel/1234567890123456",
+    "thumbnail": "https://picsum.photos/seed/facebook_1/500/500",
+    "views": 210000,
+    "performance_ratio": 3.8,
+    "post_date": "2025-04-17T16:45:00.000Z",
+    "creator": "MindsetMentor"
+  },
+  {
+    "id": "youtube_sample_2",
+    "platform": "youtube",
+    "title": "How to Build a Morning Routine That Actually Works",
+    "url": "https://www.youtube.com/shorts/sample2",
+    "thumbnail": "https://picsum.photos/seed/youtube_2/500/500",
+    "views": 290000,
+    "performance_ratio": 4.8,
+    "post_date": "2025-04-17T11:20:00.000Z",
+    "creator": "ProductivityGuru",
+    "videoId": "9bZkp7q19f0"
+  },
+  {
+    "id": "instagram_sample_2",
+    "platform": "instagram",
+    "title": "5 Books That Changed My Life",
+    "url": "https://www.instagram.com/p/LmNoPqRsTuV/",
+    "thumbnail": "https://picsum.photos/seed/instagram_2/500/500",
+    "views": 150000,
+    "performance_ratio": 2.6,
+    "post_date": "2025-04-17T13:10:00.000Z",
+    "creator": "BookSummaryDaily"
+  },
+  {
+    "id": "tiktok_sample_2",
+    "platform": "tiktok",
+    "title": "The 2-Minute Rule That Boosts Productivity",
+    "url": "https://www.tiktok.com/@productivity/video/9876543210987654321",
+    "thumbnail": "https://picsum.photos/seed/tiktok_2/500/500",
+    "views": 275000,
+    "performance_ratio": 4.9,
+    "post_date": "2025-04-17T15:30:00.000Z",
+    "creator": "ProductivityTips"
+  },
+  {
+    "id": "facebook_sample_2",
+    "platform": "facebook",
+    "title": "How to Set Goals You'll Actually Achieve",
+    "url": "https://www.facebook.com/reel/6543210987654321",
+    "thumbnail": "https://picsum.photos/seed/facebook_2/500/500",
+    "views": 195000,
+    "performance_ratio": 3.5,
+    "post_date": "2025-04-17T17:25:00.000Z",
+    "creator": "GoalSettingMaster"
+  },
+  {
+    "id": "youtube_sample_3",
+    "platform": "youtube",
+    "title": "The Science of Habit Formation",
+    "url": "https://www.youtube.com/shorts/sample3",
+    "thumbnail": "https://picsum.photos/seed/youtube_3/500/500",
+    "views": 310000,
+    "performance_ratio": 5.2,
+    "post_date": "2025-04-17T12:40:00.000Z",
+    "creator": "ScienceOfSelf",
+    "videoId": "jNQXAC9IVRw"
+  },
+  {
+    "id": "tiktok_sample_3",
+    "platform": "tiktok",
+    "title": "How to Remember Everything You Read",
+    "url": "https://www.tiktok.com/@readingskills/video/5432109876543210987",
+    "thumbnail": "https://picsum.photos/seed/tiktok_3/500/500",
+    "views": 230000,
+    "performance_ratio": 4.1,
+    "post_date": "2025-04-17T18:15:00.000Z",
+    "creator": "ReadingSkills"
+  }
+]

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viral Content Ideas Generator</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Viral Content Ideas Generator</h1>
+        <p class="subtitle">Daily top 10 viral videos for self-improvement, inspirational stories, and books</p>
+    </header>
+
+    <main>
+        <div class="date-navigation">
+            <button id="prev-day">← Previous Day</button>
+            <h2 id="current-date">Today's Top Videos</h2>
+            <button id="next-day" disabled>Next Day →</button>
+        </div>
+
+        <div class="filters">
+            <select id="platform-filter">
+                <option value="all">All Platforms</option>
+                <option value="instagram">Instagram</option>
+                <option value="youtube">YouTube Shorts</option>
+                <option value="tiktok">TikTok</option>
+                <option value="facebook">Facebook Reels</option>
+            </select>
+        </div>
+
+        <div id="videos-container" class="videos-container">
+            <div class="loading">Loading viral videos...</div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Internal tool for book summary app marketing - Updated daily at 00:00 UTC</p>
+    </footer>
+
+    <script src="../js/app.js"></script>
+</body>
+</html>
